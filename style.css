@@ -141,8 +141,8 @@ body {
 
   .left {
     width: 100%;
-    height: 40%;
-    padding: 4vw 6vw;
+           height: 47%;
+        padding: 4vw 8vw 0vw 8vw;
   }
 
   .right {
